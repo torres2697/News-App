@@ -1,0 +1,48 @@
+footer {
+  padding: 45px 0;
+}
+
+.footer-top {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.footer-logo a {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: #333d51;
+}
+
+.footer-logo a p {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.footer-content {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+}
+
+.footer-author {
+  font-size: 12px;
+  line-height: 15px;
+  text-align: right;
+}
+
+.footer-author span {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  display: block;
+}
+/*# sourceMappingURL=footer.css.map */

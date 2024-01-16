@@ -1,0 +1,18 @@
+.news {
+  h2 {
+    margin-bottom: 75px;
+  }
+  .news-posts {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+    .posts-item {
+      margin-bottom: 30px;
+      margin-left: 15px;
+      margin-right: 15px;
+    }
+  }
+}

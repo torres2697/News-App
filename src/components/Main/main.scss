@@ -1,0 +1,28 @@
+.main {
+  h2 {
+    margin-bottom: 75px;
+  }
+  .main-posts {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0 -15px;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    .posts-item {
+      margin-bottom: 30px;
+      margin-left: 15px;
+      margin-right: 15px;
+    }
+  }
+  .main-more {
+    font-size: 20px;
+    line-height: 24px;
+    color: #004fec;
+    margin-top: 60px;
+    display: block;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

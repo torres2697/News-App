@@ -1,0 +1,17 @@
+header {
+  padding: 45px 0;
+}
+.header-top {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+.logo {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: #333d51;
+}
