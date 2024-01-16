@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/News-App/static/css/main.1492dfeb.css",
+    "main.js": "/News-App/static/js/main.d94205ca.js",
+    "static/media/ProximaNova-Regular.eot": "/News-App/static/media/ProximaNova-Regular.d97f8f32c098b28c3ab0.eot",
+    "static/media/ProximaNova-Regular.ttf": "/News-App/static/media/ProximaNova-Regular.b078618b41b9b6629ea0.ttf",
+    "static/media/ProximaNova-Bold.eot": "/News-App/static/media/ProximaNova-Bold.787088b281e017f8c449.eot",
+    "static/media/ProximaNova-Bold.ttf": "/News-App/static/media/ProximaNova-Bold.7722451a8c88b6100185.ttf",
+    "static/media/author.jpg": "/News-App/static/media/author.c8fd852eee0fe041081c.jpg",
+    "static/media/ProximaNova-Regular.woff": "/News-App/static/media/ProximaNova-Regular.99528640efded3e12591.woff",
+    "static/media/ProximaNova-Bold.woff": "/News-App/static/media/ProximaNova-Bold.1f267da183b3d4fe3d5b.woff",
+    "index.html": "/News-App/index.html",
+    "main.1492dfeb.css.map": "/News-App/static/css/main.1492dfeb.css.map",
+    "main.d94205ca.js.map": "/News-App/static/js/main.d94205ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1492dfeb.css",
+    "static/js/main.d94205ca.js"
+  ]
+}
